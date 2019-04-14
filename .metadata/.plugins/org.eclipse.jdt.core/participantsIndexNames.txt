@@ -1,0 +1,17 @@
+INDEX VERSION 1.127
+/home/abc/Videos/wtl prac/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3999431075.index
+/try_foodbill/src
+/home/abc/Videos/wtl prac/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1226852484.index
+/foodBill/src
+/home/abc/Videos/wtl prac/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/284533661.index
+/FoodBill 7/src
+/home/abc/Videos/wtl prac/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3141172745.index
+/6_trial/src
+/home/abc/Videos/wtl prac/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/3749293658.index
+/SpringMVCProject/src
+/home/abc/Videos/wtl prac/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/2041793233.index
+/Login/src
+/home/abc/Videos/wtl prac/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/568334545.index
+/Login6/src
+/home/abc/Videos/wtl prac/.metadata/.plugins/org.eclipse.jst.jsp.core/jspsearch/1369844634.index
+/6_trial/src

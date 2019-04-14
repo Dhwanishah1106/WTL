@@ -1,0 +1,21 @@
+package com.dhwanishah;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class EmployeeMain {
+
+	public static void main(String[] args) {
+		//1.Configure spring container
+		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+		
+		//2. get bean
+		Employee employee = context.getBean("employee", Employee.class);
+		//3. call pojo
+		System.out.println(employee);
+		//4. close context - XmlApplicationContext
+		//context.close();
+
+	}
+
+}

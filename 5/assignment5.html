@@ -1,0 +1,74 @@
+<html>
+<body>
+
+<table border = "1" id = "empTable">
+<tr>
+	<th>ID</th><th>NAME</th><th>SALARY</th><th>DEPARTMENT</th>
+</tr>
+</table>
+
+<table id = "avgSalTable">
+<tr>
+	<th>DEPARTMENT</th><th>SALARY</th>
+</tr>
+</table>
+
+<script>
+var xhttp = new XMLHttpRequest();
+xhttp.onreadystatechange = function() {
+	if(this.readyState == 4 && this.status == 200) {
+		processFile(this);
+	}
+}
+xhttp.open("GET","ass5_emp.xml",true);
+xhttp.send();
+
+function processFile(xml) {
+
+var xmlDoc = xml.responseXML;
+
+var empArray = xmlDoc.getElementsByTagName("employee");
+
+var empTable = document.getElementById("empTable").innerHTML;
+
+var salTable = document.getElementById("avgSalTable").innerHTML;
+
+var cntComp=0, cntIt=0;
+var avgComp=0; avgIt=0;
+var totalComp=0, totalIt=0;
+
+for(var i=0; i<empArray.length; i++) {
+	var name = empArray[i].getElementsByTagName("name")[0].childNodes[0].nodeValue;
+	var id = empArray[i].getElementsByTagName("id")[0].childNodes[0].nodeValue;
+	var dept = empArray[i].getElementsByTagName("department")[0].childNodes[0].nodeValue;
+	var sal = parseInt(empArray[i].getElementsByTagName("salary")[0].childNodes[0].nodeValue);
+
+	switch(dept) {
+	case "Computer":
+		cntComp++;
+		totalComp += sal;	
+		break;
+	case "IT":
+		cntIt++;
+		totalIt += sal;	
+		break;
+	}
+
+	empTable = empTable + "<tr><td>" +id+ "</td><td>" +name+ "</td><td>" +sal+ "</td><td>" +dept+ "</td></tr>";	
+}
+
+	document.getElementById("empTable").innerHTML = empTable;
+
+	avgComp = totalComp/cntComp;
+	avgIt = totalIt/cntIt;
+	
+	salTable = salTable + "<tr><td>Computer</td><td>" + cntComp + "</td><td>" + avgComp + "</td></tr>";
+	salTable = salTable + "<tr><td>IT</td><td>" + cntIt + "</td><td>" + avgIt + "</td></tr>";
+
+	document.getElementById("avgSalTable").innerHTML = salTable;	
+}
+</script>
+
+</body>
+</html>
+

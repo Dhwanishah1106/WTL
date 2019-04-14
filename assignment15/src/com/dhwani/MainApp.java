@@ -1,0 +1,27 @@
+package com.dhwani;
+
+import org.springframework.context.ApplicationContext;
+import org.springframework.context.support.ClassPathXmlApplicationContext;
+
+public class MainApp {
+
+	public static void main(String[] args) {
+		//1.Configure spring container
+		ApplicationContext context = new ClassPathXmlApplicationContext("applicationContext.xml");
+		
+		//2. get bean
+		Coach coach = context.getBean("myCoach", CricketCoach.class);
+		//3. call functionalities
+		System.out.println("Cricket Training");
+		System.out.println(coach.getDailyWorkOut());
+		System.out.println(coach.getDailyFortune());
+		
+		Coach baseBallCoach = context.getBean("myBaseballCoach", BaseballCoach.class);
+		System.out.println("\nBase Ball Training");
+		System.out.println(baseBallCoach.getDailyWorkOut());
+		System.out.println(baseBallCoach.getDailyFortune());
+		//4. close context
+
+	}
+
+}

@@ -1,0 +1,22 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Login page</title>
+</head>
+<body onload = "preventBack()">
+
+<form action = "Process.jsp">
+	Name : <input type="text" name="username" placeholder="Enter name" required><br><br>
+	Password : <input type="password" id="password" placeholder="Enter password" required><br>
+	<input type="submit" value="Login">
+</form>
+
+<script type="text/javascript">
+	function preventBack() {
+		window.history.forward();
+	}
+
+</script>
+</body>
+</html>

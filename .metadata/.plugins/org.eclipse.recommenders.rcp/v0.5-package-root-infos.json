@@ -1,0 +1,1315 @@
+[
+  {
+    "symbolicName": "spring-instrument-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3518b979a537b29bd340da41ec19cae64e3b61cf",
+    "jarFileModificationDate": "2019-01-09T12:40:46+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-instrument-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5460adee09cc5fc8829c0acfc46c34670a7d70a0",
+    "jarFileModificationDate": "2019-02-02T14:40:08+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/jce.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-oxm-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4502bb0f4ae146b5307eace0293507f484809965",
+    "jarFileModificationDate": "2019-01-09T12:41:16+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-oxm-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.apache.tomcat.jdbc",
+    "version": {
+      "major": 1,
+      "minor": 1,
+      "micro": 0,
+      "qualifier": "1"
+    },
+    "jarFileFingerprint": "f1e64111d211ce69c54eab205bb94ef50f151d29",
+    "jarFileModificationDate": "2013-10-18T15:49:24+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/tomcat-jdbc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webflux-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "71c0d1700077d5999604352f8f158accff275f9f",
+    "jarFileModificationDate": "2019-01-09T12:41:44+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-webflux-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-coyote",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1352aaa2e10e206e448e126a10eed86858c3d31a",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/tomcat-coyote.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-instrument-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "625141b490dee6fa22da415ec173b8cce5ef3ca7",
+    "jarFileModificationDate": "2019-01-09T12:24:46+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-instrument-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-tx-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "33e5d4fa21de0e2d920663baf32fa339488ed093",
+    "jarFileModificationDate": "2019-01-09T12:41:28+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-tx-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "servlet-api",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "346360350e369f894a08e9de77f4d9f0139e7007",
+    "jarFileModificationDate": "2013-10-18T15:49:24+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/servlet-api.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-util",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ca8f3694643ce50ecc0b883cb62fa1c0854603d1",
+    "jarFileModificationDate": "2013-10-18T15:49:24+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/tomcat-util.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-dbcp",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "b14163fa68f2707ebd897d13715fa0f424d3fe0a",
+    "jarFileModificationDate": "2013-10-18T15:49:24+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/tomcat-dbcp.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-websocket-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "15100b359cc08821845ee40c11fb27eadf4a5d43",
+    "jarFileModificationDate": "2019-01-09T12:41:56+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-websocket-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-indexer-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "83449cc0ecf0299d0f0c6a64d3d53636c6d92965",
+    "jarFileModificationDate": "2019-01-09T12:40:24+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-indexer-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-orm-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ef4929f436359ebe9be5003ed32e0c33d8335182",
+    "jarFileModificationDate": "2019-01-09T12:41:12+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-orm-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-i18n-es",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "da52320e299ad59990882ae6b429ab68d42eb40a",
+    "jarFileModificationDate": "2013-10-18T15:49:24+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/tomcat-i18n-es.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jasper",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "072ac9505a573582735a042f6eda7640f7f77a69",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/jasper.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "catalina",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "12a1630cae52dfb3203c9f2395c6751f7a960430",
+    "jarFileModificationDate": "2013-10-18T15:49:24+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/catalina.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "eb1badce2f1593f3fb6e340036d313bf1c24dcfa",
+    "jarFileModificationDate": "2019-01-09T12:26:00+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-webmvc-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "54df9715689de147aa1dbf2ac72f10775e5e83df",
+    "jarFileModificationDate": "2019-02-02T14:40:07+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-jcl-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "33cc6ea0fc8baff37c2a26202efac42328b28f6a",
+    "jarFileModificationDate": "2019-01-09T12:40:50+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-jcl-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-websocket-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ad346b935974650de679bad00d222dacd7186079",
+    "jarFileModificationDate": "2019-01-09T12:41:56+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-websocket-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aop-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "57a8c4ab2ff3233095da24c58c30aa75a7a82069",
+    "jarFileModificationDate": "2019-01-09T12:24:44+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-aop-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-expression-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6e97bccf5562d8658b31ce703e5748acb96fcb24",
+    "jarFileModificationDate": "2019-01-09T12:40:42+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-expression-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-expression-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "61f589de1ccee75f432d079c9efe39b15979eb22",
+    "jarFileModificationDate": "2019-01-09T12:40:42+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-expression-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cf457d11730d5bba81022e115ccd9a6e9727a78f",
+    "jarFileModificationDate": "2019-02-02T14:40:07+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/charsets.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-expression-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1abbfd04a7d472811582bb3780ea4d871442d49c",
+    "jarFileModificationDate": "2019-01-09T12:24:46+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-expression-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-indexer-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7bb8ec329034d5d27b838e7f05afec79db16a048",
+    "jarFileModificationDate": "2019-01-09T12:33:14+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-indexer-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "356de54b0d0e115b51de4d3b8adb9e08f16b92fd",
+    "jarFileModificationDate": "2019-02-02T14:40:08+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/localedata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-jms-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6a96739ad9d8fccf0af1482e1fa12aa0013c1161",
+    "jarFileModificationDate": "2019-01-09T12:41:00+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-jms-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fb31995f8ac9938e173388063ff0b8774449b116",
+    "jarFileModificationDate": "2019-01-09T12:40:20+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-instrument-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3f3433172d80f8915852d7262eea70c205b6ad9f",
+    "jarFileModificationDate": "2019-01-09T12:40:46+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-instrument-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-oxm-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "42cf859126fc1b94a95d4ad2aebe6e44a981c45e",
+    "jarFileModificationDate": "2019-01-09T12:41:16+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-oxm-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-beans-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a2d83ea589284f0d7cdc4ad4576eb07a08164ed7",
+    "jarFileModificationDate": "2019-01-09T12:40:12+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-beans-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "410df01b3f9bae3b400a920d850a1ec809b8531c",
+    "jarFileModificationDate": "2019-02-02T14:40:08+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunjce_provider.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-test-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3ab4d6d6087d2dd7f4a8b3e88b66b3381bd4247c",
+    "jarFileModificationDate": "2019-01-09T12:26:26+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-test-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jcl-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "be34a24c2a607b5c95cddd7e12d25b492946798e",
+    "jarFileModificationDate": "2019-01-09T12:40:50+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-jcl-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "mysql-connector",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "778c143360d6113ccc5ea2ff176fe5d9a64cc0cc",
+    "jarFileModificationDate": "2011-10-03T20:25:20+05:30",
+    "location": "/home/abc/Videos/wtl prac/assignment14/mysql-connector.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc7c96711c0d7aa9a4c93a90cb8622814ad18fab",
+    "jarFileModificationDate": "2019-01-09T12:41:52+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-webmvc-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-support-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "48771a0300d56167395094dc6749f8368b350ac3",
+    "jarFileModificationDate": "2019-01-09T12:40:28+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-support-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aop-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8860025cf5217cd45610da665d19d8f6f8f6f8c4",
+    "jarFileModificationDate": "2019-01-09T12:40:00+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-aop-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jdbc-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "29680c39ec32b0d33ff13dbfa0ebaa6b592ed064",
+    "jarFileModificationDate": "2019-01-09T12:40:56+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-jdbc-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aspects-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "85ff6d76d708a7d5b1ca9751b433be8340c3c16a",
+    "jarFileModificationDate": "2019-01-09T12:40:04+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-aspects-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "el-api",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e4ed09b8baec591475f570d4f84ff29733a61f97",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/el-api.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "657a40571d1d6b79a25dba1372c85d0b5563d687",
+    "jarFileModificationDate": "2019-02-02T14:40:07+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/resources.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bf1c817820341a246f7130fe046e8310b03d04f6",
+    "jarFileModificationDate": "2019-02-02T14:40:07+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunec.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-context-support-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1fef39205bb1b3ff9b2c46b136be19288aa9c78a",
+    "jarFileModificationDate": "2019-01-09T12:25:42+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-support-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-core-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "0186420b08ad7519b2cc2dfc93dc6c8ca9425454",
+    "jarFileModificationDate": "2019-01-09T12:40:36+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-core-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "76cfe08292ff7bce14576c136e0c8e147f2d3f42",
+    "jarFileModificationDate": "2019-02-02T14:40:08+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/nashorn.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jasper-el",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8e3d1063997e4e79e7b64c6c628a0e5e85591113",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/jasper-el.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-messaging-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "151cd8bd23a3ec5bc95288d79977544e27206f08",
+    "jarFileModificationDate": "2019-01-09T12:26:00+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-messaging-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jms-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bf42ea5b01a7b92f3ec01771990db2e7bacdc61e",
+    "jarFileModificationDate": "2019-01-09T12:41:00+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-jms-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "annotations-api",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "29951dcc214a5f2f8d685899fb7a81a1f0778883",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/annotations-api.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a9a1c8db6cfc18900c08f128820e234a9ec2473c",
+    "jarFileModificationDate": "2019-02-02T14:40:07+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/jfr.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-context-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "229fb0ff2bfd5ac54276648b8cc788809dd5ab6c",
+    "jarFileModificationDate": "2019-01-09T12:40:20+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "websocket-api",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1e6e3103161b80f8605224f042e87d62eddbeb3e",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/websocket-api.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-orm-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "4724d782a976fb7b0f69dd1e5d027a0d68622260",
+    "jarFileModificationDate": "2019-01-09T12:25:36+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-orm-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aspects-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "744b31637eb1daeb9c16a8171f91db483c7d6658",
+    "jarFileModificationDate": "2019-01-09T12:40:04+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-aspects-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-test-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9db0523ae75a10f3f36f19e1ae96e47268bb1122",
+    "jarFileModificationDate": "2019-01-09T12:41:22+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-test-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-web-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "1c97085f1052ad3206bafd364eba572d9f7565c2",
+    "jarFileModificationDate": "2019-01-09T12:41:38+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-web-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bf48c459c81d893c76cc3c2b7b690ac9c7715352",
+    "jarFileModificationDate": "2019-02-02T14:40:07+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/cldrdata.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-orm-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "bc5ff380cea4c72776dbdb5ffa887fbd9828301e",
+    "jarFileModificationDate": "2019-01-09T12:41:12+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-orm-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-messaging-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "6b72d03576f373b602a4180fe571e5b14801bd1e",
+    "jarFileModificationDate": "2019-01-09T12:41:06+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-messaging-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-test-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "3aa112cb50cfe9ec3fef924e585d7137a6bab52a",
+    "jarFileModificationDate": "2019-01-09T12:41:22+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-test-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-tx-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a671702999fd8b5f1798cd3a7dfbbbf5a4705494",
+    "jarFileModificationDate": "2019-01-09T12:24:58+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-tx-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-context-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2be9e8da66d32fb4eaf29a46bdcdbfe155f1f87a",
+    "jarFileModificationDate": "2019-01-09T12:24:54+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e9f2a73c777afe3da2f0607a94d038d24e38778d",
+    "jarFileModificationDate": "2019-02-02T14:40:07+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/dnsns.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "7e1257d94319cd9414ed3566f579250a6fb328af",
+    "jarFileModificationDate": "2019-02-02T14:40:07+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/jsse.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-context-indexer-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "a90be69bb3da4fbdaafe40348e8971704c81aa96",
+    "jarFileModificationDate": "2019-01-09T12:40:24+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-indexer-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-i18n-ja",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "c6b7313b7235c18863823e23d2e2a28ce6e390bf",
+    "jarFileModificationDate": "2013-10-18T15:49:24+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/tomcat-i18n-ja.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-messaging-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "960b14c4953885577accc20c6135ffa9827c71fc",
+    "jarFileModificationDate": "2019-01-09T12:41:06+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-messaging-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jsp-api",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "244c33dce92df87698ffb3198da134a6f20dc6b2",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/jsp-api.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-websocket-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d292341543fd24c545253e01e5658a73d2e55825",
+    "jarFileModificationDate": "2019-01-09T12:26:02+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-websocket-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jcl-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "f5a25caae583905203959abf35fdd1ab7a8f2c37",
+    "jarFileModificationDate": "2019-01-09T12:24:14+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-jcl-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "94634c0a8f7ecead036bfd87f81e1120628079a7",
+    "jarFileModificationDate": "2019-02-02T14:40:08+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/zipfs.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d3f7143b9d3eb86283b6355f610642743581ea1e",
+    "jarFileModificationDate": "2019-02-02T14:40:08+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/jfxrt.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-web-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e28f499816d1e863293bb5d4d5f85f0d257fcd85",
+    "jarFileModificationDate": "2019-01-09T12:41:38+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-web-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-core-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "e7d2ad03a50ebff117a6efe2e0e3f15946d0768a",
+    "jarFileModificationDate": "2019-01-09T12:24:24+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-core-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "org.eclipse.jdt.core.compiler.batch",
+    "version": {
+      "major": 3,
+      "minor": 8,
+      "micro": 2,
+      "qualifier": "v20130121-145325"
+    },
+    "jarFileFingerprint": "d9fd79499c664bccaf24dbe04be417de6c6af64a",
+    "jarFileModificationDate": "2013-10-18T15:49:24+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/ecj-4.2.2.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webflux-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8c061d764e322fe36a3947c0fbe94d77b89a132d",
+    "jarFileModificationDate": "2019-01-09T12:41:44+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-webflux-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jms-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "2e0abc476e9e907b1d8b7df7402732efe2caea60",
+    "jarFileModificationDate": "2019-01-09T12:33:14+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-jms-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "catalina-tribes",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "99bc69195ecde10ef13f139ba5c66b48535aa857",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/catalina-tribes.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "catalina-ha",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fa4396fb0e73652db03eea68edc7b01d61a2927b",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/catalina-ha.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-tx-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "724157b9d41062e98589b873eb444e27c80e9828",
+    "jarFileModificationDate": "2019-01-09T12:41:28+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-tx-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "catalina-ant",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "cde74b1c74c74f01bf91d1090d922c4b68bb72fe",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/catalina-ant.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-oxm-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "de4a0168f7b094279b1dba8b79f3fcd42cb365ea",
+    "jarFileModificationDate": "2019-01-09T12:25:06+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-oxm-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webflux-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9b0449cc12f1da8a8d607caec0e0d0b02bbeac55",
+    "jarFileModificationDate": "2019-01-09T12:25:46+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-webflux-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jdbc-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "ec21d6c0956b523ed364fa1bb1165009ad426753",
+    "jarFileModificationDate": "2019-01-09T12:25:02+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-jdbc-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-web-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "75830b324bba34b2cb63d0fed085e94cc759eec5",
+    "jarFileModificationDate": "2019-01-09T12:25:20+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-web-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-i18n-fr",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "9b3b416126ea9ee219549f809a9ecc04d109372e",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/tomcat-i18n-fr.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-beans-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "507c9391e0b786704929453e7fd3a74cfba46534",
+    "jarFileModificationDate": "2019-01-09T12:24:30+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-beans-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-webmvc-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "23ba079e3a1bf3fc48c43903a9cc54f5ad66c6de",
+    "jarFileModificationDate": "2019-01-09T12:41:50+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-webmvc-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5bb1dedc3344cd3bb86828d4aa8ca82f4a606ed4",
+    "jarFileModificationDate": "2019-02-02T14:40:08+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/sunpkcs11.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-context-support-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "5caa074ec7d8d735e69715f14eee7470eab89aa9",
+    "jarFileModificationDate": "2019-01-09T12:40:28+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-support-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-core-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "08be9ed31f0ad503c96cdbd3063ae4a6f418239c",
+    "jarFileModificationDate": "2019-01-09T12:40:36+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-core-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "jre",
+    "version": {
+      "major": 1,
+      "minor": 0,
+      "micro": 0,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "d8c2d5186ef1abfb549ba9f7c4b003a87a844099",
+    "jarFileModificationDate": "2019-02-02T14:40:08+05:30",
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/ext/jaccess.jar",
+    "javaRuntime": true
+  },
+  {
+    "symbolicName": "spring-beans-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "605fc0183894ef781ca9c2a66ebb6bda4751a636",
+    "jarFileModificationDate": "2019-01-09T12:40:12+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-beans-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aspects-5.1.4.RELEASE",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "8d9f441975c7b45f497706c068c022163591d116",
+    "jarFileModificationDate": "2019-01-09T12:26:50+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-aspects-5.1.4.RELEASE.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat7-websocket",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "fe223c77554ad05c4f70a17a60d2c11b45c584cc",
+    "jarFileModificationDate": "2013-10-18T15:49:23+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/tomcat7-websocket.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "tomcat-api",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "baefb943f82079d3028433f4bb4936f44e61373d",
+    "jarFileModificationDate": "2013-10-18T15:49:24+05:30",
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/tomcat-api.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-jdbc-5.1.4.RELEASE-sources",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "901be9d3fa063d2a308b2bf9ab1597a0236021b2",
+    "jarFileModificationDate": "2019-01-09T12:40:56+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-jdbc-5.1.4.RELEASE-sources.jar",
+    "javaRuntime": false
+  },
+  {
+    "symbolicName": "spring-aop-5.1.4.RELEASE-javadoc",
+    "version": {
+      "major": -1,
+      "minor": -1,
+      "micro": -1,
+      "qualifier": ""
+    },
+    "jarFileFingerprint": "debb71be3011ecd659a567509b3d4b76172bf2c6",
+    "jarFileModificationDate": "2019-01-09T12:40:00+05:30",
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-aop-5.1.4.RELEASE-javadoc.jar",
+    "javaRuntime": false
+  }
+]

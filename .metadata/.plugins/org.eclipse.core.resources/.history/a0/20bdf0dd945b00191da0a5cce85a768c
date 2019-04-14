@@ -1,0 +1,16 @@
+package com.dhwani;
+
+public class MainApp {
+
+	public static void main(String[] args) {
+		//1.Configure spring container
+		
+		//2. get bean
+		
+		//3. call functionalities
+		
+		//4. close context
+
+	}
+
+}

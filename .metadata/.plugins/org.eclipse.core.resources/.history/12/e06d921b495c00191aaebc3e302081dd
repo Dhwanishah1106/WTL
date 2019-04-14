@@ -1,0 +1,69 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Restaurant menu</title>
+</head>
+<body>
+<form action="generateBill.jsp" onchange="return calculateTotal()">
+Name : <input type="text" name="name" id="name" placeholder="Enter name">
+Email : <input type="email" name="email" id="email" placeholder="Enter email">
+
+<table>
+<tr>
+<th>Name</th>
+<th>Quantity</th>
+<th>Cost</th>
+<th>Total Cost</th>
+</tr>
+
+<tr>
+<td><input type="hidden"  name = "itemName">Burger</td>
+<td><input type="number" name="itemCount" placeholder="0"></td>
+<td class = "itemCost">20</td>
+<td><input type="number" name="totalCost" placeholder="0"></td>
+</tr>
+
+<tr>
+<td><input type="hidden"  name = "itemName">Dosa</td>
+<td><input type="number" name="itemCount" placeholder="0"></td>
+<td class = "itemCost">50</td>
+<td><input type="number" name="totalCost" placeholder="0"></td>
+</tr>
+
+<tr>
+<td><input type="hidden"  name = "itemName">Idli</td>
+<td><input type="number" name="itemCount" placeholder="0"></td>
+<td class = "itemCost">10</td>
+<td><input type="number" name="totalCost" placeholder="0"></td>
+</tr>
+
+<tr>
+<td></td>
+<td></td>
+<td>Total</td>
+<td><input type="number" placeholder="0" id="total">
+</tr>
+</table>
+
+</form>
+
+<script type="text/javascript">
+	function calculateTotal() {
+		var finalCost = 0;
+		var items = document.getElementsByName("itemName");
+		for(var i=0; i<items.length; i++) {
+			var cost = parseInt(document.getElementsByClassName("itemCost")[i].innerHTML);
+			var quantity = parseInt(document.getElementsByName("itemCount")[i].value);
+			var totalPerItem = cost*quantity;
+			finalCost += totalPerItem;
+			
+			document.getElementsByName("totalCost")[i].value = totalPerItem;
+		}
+		document.getElementById("total").value = finalCost;
+		return true;
+	}
+</script>
+
+</body>
+</html>

@@ -1,0 +1,17 @@
+package com.dhwani;
+
+public class CricketCoach implements Coach{
+
+	private FortuneService fortuneService;
+	@Override
+	public String getDailyWorkout() {
+		return "Cricket Training for 15 minutes";
+	}
+
+	@Override
+	public String getDailyFortune() {
+		return fortuneService.getFortune();
+	}
+
+	
+}

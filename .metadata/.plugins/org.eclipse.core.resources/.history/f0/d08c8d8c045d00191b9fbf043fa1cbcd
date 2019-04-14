@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+<form class="form1" action="First">
+<h1>Register a Product</h1>
+<table>
+<tr>
+	<td><label for="pname">Product Name</label></td>
+	<td><input type="text" name="pname" id="pname" placeholder="Enter Name" required></td>
+</tr>
+<tr> 
+	<td><label for="productId">Product Id</label></td>
+	<td><input type="number" name="productId" id="productId" placeholder="Enter ID" min="0"  required></td>
+</tr>
+<tr> 
+	<td><label for="category">Product Category</label></td>
+	<td><input type="text" name="category" id="category" placeholder="Enter Category"  required></td>
+</tr>
+<tr> 
+	<td><label for="description">Enter Description</label></td>
+	<td><input type="text" name="description" id="description" placeholder="Enter Short Description" required></td>
+</tr>
+<tr> 
+	<td><label for="price">Price</label></td>
+	<td><input type="number" name="price" id="price" placeholder="00$" min="0" required></td>
+</tr>
+<tr> 
+	<td><label for="quantity">Enter Quantity</label></td>
+	<td><input type="number" name="quantity" id="quantity" placeholder="00" min="0"  required></td>
+</tr>
+</table>
+<input type="submit" value="Submit" name="submit" >
+</form>
+</body>
+</html>

@@ -1,0 +1,23 @@
+<!DOCTYPE html>
+<html>
+<head><title>Currency converter</title>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.6.9/angular.min.js"></script>
+<script>
+var app = angular.module("curConv", []);
+app.controller("curCtrl", function($scope) {
+	$scope.rs = 0;
+	$scope.dollar = 0;
+});
+
+</script>
+</head>
+<body ng-app="curConv" ng-controller="curCtrl">
+<label>Rupees</label>
+<input type="number" ng-model="rs" ng-keyup="dollar=rs/ratio"><br>
+<label>USD</label>
+<input type="number" ng-model="dollar" ng-keyup="rs=dollar*ratio"><br>
+<label>Enter ratio</label>
+<input type="number" ng-model="ratio" placeholder="1USD = ?INR">
+
+</body>
+</html>

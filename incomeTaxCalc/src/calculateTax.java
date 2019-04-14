@@ -1,0 +1,65 @@
+
+
+import java.io.IOException;
+import java.io.PrintWriter;
+
+import javax.servlet.Servlet;
+import javax.servlet.ServletException;
+import javax.servlet.annotation.WebServlet;
+import javax.servlet.http.HttpServlet;
+import javax.servlet.http.HttpServletRequest;
+import javax.servlet.http.HttpServletResponse;
+
+@WebServlet("/calculateTax")
+public class calculateTax extends HttpServlet {
+	
+	public String getServletInfo() {
+		return "This servlet calculates Income Tax"; 
+	}
+
+	/**
+	 * @see HttpServlet#doGet(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doGet(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		processRequest(request, response);
+	}
+
+	/**
+	 * @see HttpServlet#doPost(HttpServletRequest request, HttpServletResponse response)
+	 */
+	protected void doPost(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		// TODO Auto-generated method stub
+		processRequest(request, response);
+	}
+	
+	public void processRequest(HttpServletRequest request, HttpServletResponse response) throws ServletException, IOException {
+		response.setContentType("text/html; charset = UTF-8");
+		try( PrintWriter out = response.getWriter()) {
+			out.println("<!DOCTYPE html");
+			out.println("<html>");
+			out.println("<body>");
+			out.println("<h1>Servlet Calculate Tax : " + request.getContextPath() + "</h1>");
+			
+			double income = Double.parseDouble(request.getParameter("income"));
+			String name = request.getParameter("username");
+			double tax = 0;
+			if(income < 250000) {
+				tax = 0;
+			}
+			if(income >250000 && income <500000) {
+				tax = income * 0.1;
+			}
+			if(income > 500000) {
+				tax = income * 0.2;
+			}
+			
+			out.println("<h2> Name - " + name + "</h2>");
+			out.println("<h2> Tax = " + tax + "</h2>");
+			out.println("<h2>Total = " + (tax+income) + "</h2>");
+			out.println("</body");
+			out.println("</html>");
+		}
+	}
+
+}

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<beans xmlns="http://www.springframework.org/schema/beans"
+	xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+	xmlns:context="http://www.springframework.org/schema/context"
+	xsi:schemaLocation="http://www.springframework.org/schema/beans
+	http://www.springframework.org/schema/beans/spring-beans.xsd
+	http://www.springframework.org/schema/context
+	http://www.springframework.org/schema/context/spring-context.xsd">
+
+	<bean id = "employee" class = "com.dhwanishah.Employee">
+		<!-- <property name = "eId" value="103"></property>
+		<property name = "eName" value="Dhwani"></property>
+		<property name = "eDept" value="Computer"></property>
+		<property name = "eSalary" value="1000000"></property> -->
+		
+		<constructor-arg value = "103"></constructor-arg>
+		<contructor-arg value="Dhwani"></contructor-arg>
+		<contructor-arg value="Computer"></contructor-arg>
+		<contructor-arg value="1000000"></contructor-arg>
+	</bean>		
+</beans>
+

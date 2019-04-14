@@ -1,0 +1,37 @@
+{
+  "/home/abc/Downloads/apache-tomcat-7.0.47/lib/servlet-api.jar": {
+    "location": "/home/abc/Downloads/apache-tomcat-7.0.47/lib/servlet-api.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/home/abc/Downloads/apache-tomcat-7.0.47/lib/servlet-api.jar\u0027. Neither fingerprint \u0027346360350e369f894a08e9de77f4d9f0139e7007\u0027 nor symbolic name \u0027servlet-api\u0027 are known."
+  },
+  "/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar": {
+    "location": "/usr/lib/jvm/java-8-oracle/jre/lib/rt.jar",
+    "status": "UNRESOLVED",
+    "error": "Could not transfer artifact jre:jre:zip:call:1.0.0 from/to remote-models (http://download.eclipse.org/recommenders/models/kepler/): Error transferring file, server returned status code 307"
+  },
+  "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-5.1.4.RELEASE.jar": {
+    "location": "/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-5.1.4.RELEASE.jar",
+    "status": "UNRESOLVED",
+    "error": "No call model found for \u0027/home/abc/Downloads/spring-framework-5.1.4.RELEASE/libs/spring-context-5.1.4.RELEASE.jar\u0027. Neither fingerprint \u00272be9e8da66d32fb4eaf29a46bdcdbfe155f1f87a\u0027 nor symbolic name \u0027spring-context-5.1.4.RELEASE\u0027 are known."
+  },
+  "/home/abc/Videos/wtl prac/Spring1/src": {
+    "location": "/home/abc/Videos/wtl prac/Spring1/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/home/abc/Videos/wtl prac/Spring1/src\u0027. Skipped."
+  },
+  "/home/abc/Videos/wtl prac/Assignment16/src": {
+    "location": "/home/abc/Videos/wtl prac/Assignment16/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/home/abc/Videos/wtl prac/Assignment16/src\u0027. Skipped."
+  },
+  "/home/abc/Videos/wtl prac/assignment15/src": {
+    "location": "/home/abc/Videos/wtl prac/assignment15/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/home/abc/Videos/wtl prac/assignment15/src\u0027. Skipped."
+  },
+  "/home/abc/Videos/wtl prac/Ass16_try/src": {
+    "location": "/home/abc/Videos/wtl prac/Ass16_try/src",
+    "status": "UNRESOLVED",
+    "error": "No class path info available for \u0027/home/abc/Videos/wtl prac/Ass16_try/src\u0027. Skipped."
+  }
+}

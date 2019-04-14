@@ -1,0 +1,83 @@
+<html>
+<head><title>Marks</title></head>
+<style>
+#data_table
+{
+	width:50%;
+	text-align: center;
+	border: 1px solid grey;
+}
+#data_table tr:hover{background-color: grey; border:1px solid grey;}
+#data_table th{padding-top: 12px;padding-bottom: 12px;color: white; background-color: green;}
+
+</style>
+
+<body>
+	<div style = "float:left;">
+	<form  method="POST" class="form1">
+	<center><h1>Calculate Result</h1></center>
+		<p> 
+			<label for="sname">Student Name</label>
+			<input type="text" name="sname" id="sname" placeholder="Enter Name" required>
+		</p>
+		<p> 
+			<label for="sub1">Web Technology</label>
+			<input type="number" name="sub1" id="sub1" placeholder="00" min="0" max="100" required>
+		</p>
+		<p> 
+			<label for="sub2">SPOS</label>
+			<input type="number" name="sub2" id="sub2" placeholder="00" min="0" max="100" required>
+		</p>
+		<p> 
+			<label for="sub3">ES & IOT</label>
+			<input type="number" name="sub3" id="sub3" placeholder="00" min="0" max="100" required>
+		</p>
+		<p> 
+			<label for="sub4">DAA</label>
+			<input type="number" name="sub4" id="sub4" placeholder="00" min="0" max="100" required>
+		</p>
+		<p> 
+			<label for="sub5">SMD</label>
+			<input type="number" name="sub5" id="sub5" placeholder="00" min="0" max="100" required>
+		</p>
+		<p>
+		<input class="btn1" type="button" value="Submit" name="submit" onclick="calculatePerc()">
+
+		</p>
+	</form>
+	</div>
+
+<div style = "float:right;">
+<table id = "data_table">
+	<tr>
+	<th>Name</th><th>WT</th><th>SPOS</th><th>ES& IOT</th><th>DAA</th><th>SMD</th><th>Percentage</th>
+	</tr>
+</table>
+</div>
+
+<script type="text/javascript">
+	var scores = {};
+	function calculatePerc() {
+		var table_content=document.getElementById("data_table").innerHTML;
+		var studentName=document.getElementById("sname").value;
+		var sub1=parseInt(document.getElementById("sub1").value);
+		var sub2=parseInt(document.getElementById("sub2").value);
+		var sub3=parseInt(document.getElementById("sub3").value);
+		var sub4=parseInt(document.getElementById("sub4").value);
+		var sub5=parseInt(document.getElementById("sub5").value);
+
+		
+		var perc=(((sub1+sub2+sub3+sub4+sub5)/500)*100);
+
+		var record="<tr><td>"+studentName+"</td><td>"+sub1+"</td><td>"+sub2+"</td><td>"+sub3+"</td><td>"+sub4+"</td><td>"+sub5+"</td><td>"+perc.toFixed(2)+" %</td></tr>"
+		table_content=table_content+record;
+
+		document.getElementById("data_table").innerHTML=table_content;
+		scores[studentName] = [sub1,sub2,sub3,sub4,sub5];
+		alert(scores[studentName]);
+	}
+</script>
+</body>
+</html>
+
+
